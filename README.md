@@ -37,14 +37,16 @@ Run npm install to install the dependencies.
 
 ```npm start``` to start the server
 
+Follow this link to the [Video Demo](https://youtu.be/Tx2Gni-mRbo)
+
 ## Usage
 
 
 Retrieve all categories from the database
-![Get request for categories](./Develop/assets/Screenshot%202023-02-06%20at%2011.46.32%20PM.png)
+![Get request for categories](./Develop/assets/Screenshot%202023-02-06%20at%2011.46.56%20PM.png)
 
 Retrieve all products from the database
-![Get request for products](./Develop/assets/Screenshot%202023-02-06%20at%2011.46.56%20PM.png)
+![Get request for products](./Develop/assets/Screenshot%202023-02-06%20at%2011.46.32%20PM.png)
 
 Retrieve all tags from the database
 ![Get request for tags](./Develop/assets/Screenshot%202023-02-06%20at%2011.47.02%20PM.png)
